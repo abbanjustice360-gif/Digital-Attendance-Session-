@@ -1,2 +1,20 @@
-# Digital-Attendance-Session-
-Digital Attendance Session is a web-based system designed to manage and record attendance efficiently using modern digital tools. It simplifies attendance tracking, improves accuracy, and reduces manual record-keeping.
+# Digital Attendance Session
+
+A web-based digital attendance management system designed to record, track, and manage attendance efficiently.
+
+## Features
+- Digital attendance recording
+- Easy management of attendance records
+- User-friendly interface
+- Secure data handling
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- PHP (if applicable)
+- MySQL (if applicable)
+
+## Author
+Justice Abban  
+GitHub: https://github.com/Justiceabban360
