@@ -9,11 +9,8 @@ A web-based digital attendance management system designed to record, track, and 
 - Secure data handling
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- PHP (if applicable)
-- MySQL (if applicable)
+- HTML, CSS, JavaScript
+- PHP & MySQL (if applicable)
 
 ## Author
 Justice Abban  
